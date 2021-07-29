@@ -1,3 +1,2 @@
 # hello-world
-
-This is an introduction to product management using Git. What a wonderful world.
+This is an introduction to product management using Git
